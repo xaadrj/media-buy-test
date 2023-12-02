@@ -16,7 +16,7 @@ export default function Layout(props) {
 	return (
 		<>
 			{/* Banner */}
-			<Banner banner={banner} setBanner={setBanner} />
+			{/* <Banner banner={banner} setBanner={setBanner} /> */}
 			<div className="flex flex-col min-h-screen">
 				{!props.noHeader && <Header banner={props.banner} />}
 				<main className="flex-1">{props.children}</main>

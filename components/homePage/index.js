@@ -3,6 +3,9 @@ import Hero from "./hero/index";
 import Video from "./video";
 import Feature from "./feature/index";
 import ComponentSection from "./componentSection/index";
+import BookDemo from "./bookDemo"
+import Team from "./Team"
+import Blog from "./Blog"
 // import Testimonial from "./testimonial/index";
 import Card from "./globe/index";
 import PricingCard from "./pricingCard/index";
@@ -13,11 +16,13 @@ function homePage() {
 		<>
 			<Hero />
 			<Video />
+			<BookDemo/>
 			<Feature />
+			<Team/>
 			<ComponentSection />
 			{/* <Testimonial /> */}
 			<Card />
-			<PricingCard />
+			<Blog/>
 			{/* <AutoLayout /> */}
 			<Subscribe />
 		</>
