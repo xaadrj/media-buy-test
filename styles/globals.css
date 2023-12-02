@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Classes */
+html,
+body {
+	padding: 0;
+	margin: 0;
+	font-family: "Inter", sans-serif;
+	scroll-behavior: smooth;
+}
+.product-gradient {
+	background: linear-gradient(274.28deg, #2659f4 9.47%, #009dff 100.9%);
+}
+.product-gradient-button {
+	background: linear-gradient(274.28deg, #2659f4 9.47%, #009dff 100.9%);
+}
+.product-gradient-button:hover {
+	background: linear-gradient(274.28deg, #577dec 9.47%, #005d97 100.9%);
+}
+.t-f-c {
+	-webkit-text-fill-color: transparent !important;
+}
+.bg-clip-text {
+	background-clip: text !important;
+	-webkit-background-clip: text !important;
+}
+/* Custom scroll */
+/* width */
+::-webkit-scrollbar {
+	width: 5px;
+	height: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px grey;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: gray;
+}
+/* Navigation */
+.tracking-1 {
+	letter-spacing: -0.01em;
+}
+.tracking-2 {
+	letter-spacing: -0.02em;
+}
+.tracking-3 {
+	letter-spacing: -0.03em;
+}
+
+/* Homepage  */
+.gradient-hover {
+	background: white;
+}
+.gradient-hover:hover {
+	background: linear-gradient(274.28deg, #2659f4 9.47%, #009dff 100.9%);
+}
+.pricing-ticks {
+	background: linear-gradient(
+		274.28deg,
+		rgba(38, 89, 244, 0.2) 9.47%,
+		rgba(0, 157, 255, 0.2) 100.9%
+	);
+}
+
+.text-gradient {
+	background: -webkit-linear-gradient(274.28deg, #2659f4 9.47%, #009dff 100.9%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+#canvasContainer {
+	position: absolute;
+	top: 0;
+}
+.priceCard {
+	background: linear-gradient(
+		310.3deg,
+		rgba(34, 97, 246, 0) 0%,
+		rgba(85, 135, 248, 0.13) 0.01%,
+		rgba(233, 244, 252, 0.1) 55.31%
+	);
+}
+.carousel__inner-slide {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border: none;
+}
+.shadow-video {
+	box-shadow: 0px 4px 6px -2px rgba(0, 0, 0, 0.06),
+		0px 41px 50px rgba(197, 197, 197, 0.25);
+}
+.pricing-shadow {
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.06),
+		0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.shadow-kits {
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.06),
+		0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+/* LOAD IMAGE */
+.placeholder {
+	background-color: #18181b;
+	background-size: cover;
+	background-repeat: no-repeat;
+	/* position: relative; */
+	overflow: hidden;
+}
+
+.placeholder img {
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	left: 0;
+	width: 100%;
+	transition: opacity 1s linear;
+}
+
+.placeholder img.loaded {
+	opacity: 1;
+	filter: blur(30px);
+}
+
+.img-small {
+	filter: blur(50px);
+	/* this is needed so Safari keeps sharp edges */
+	transform: scale(1);
+}
+.img-small.loaded {
+	display: none;
+}
+iframe {
+	border-radius: 12px;
+}

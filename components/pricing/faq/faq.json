@@ -1,0 +1,32 @@
+[
+	{
+		"question": "What is Figit?",
+		"answer": "Your friendly neighborhood Figit contains a massive library of Auto-layout elements that can be used to design interfaces rapidly. We internally use Figit everyday and guess what the devs call us.",
+		"index": 1
+	},
+	{
+		"question": "What are BluePrints?",
+		"answer": "Blueprints are like your basic Civic without its body kit. You own it but you get no chicks. The chicks are with that Civic boy with heavy mods. So Blueprints are unstyled UI patterns that you can use to design anything, and then modify them according to your needs. And like, be that cool guy on the block.",
+		"index": 2
+	},
+	{
+		"question": "What are UI Kits?",
+		"answer": "UI Kits are opinionated design blocks that you can use to produce complete websites, stores, and landing pages. UI Kits follow a standard design system—yeah, they’re not rulebreakers like you are.",
+		"index": 3
+	},
+	{
+		"question": "How is Auto Layout helpful?",
+		"answer": "Auto Layout is like Christopher Nolan of Figma. It can be difficult to understand but it’s very rewarding once you get the hang of it. Because of the scarcity of Auto-layout resources, we decided to create a library of such elements and do the hard work so you don’t have to.",
+		"index": 4
+	},
+	{
+		"question": "What if I don’t want to use Auto Layout?",
+		"answer": "You can still use Figit.  If you don’t like to work in Auto Layout, you can select all Auto Layout frames and press Shift + Opt/Alt + A.",
+		"index": 5
+	},
+	{
+		"question": "Do you provide updates?",
+		"answer": "The library currently has 840 elements available. We plan to add new elements on bi-weekly basis. If you have any suggestions for the elements and UI patterns or if you just want to whine about life in general, feel free to hit us up at support@getfigit.com.",
+		"index": 6
+	}
+]
