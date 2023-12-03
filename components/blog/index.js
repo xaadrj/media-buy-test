@@ -9,10 +9,8 @@ function index() {
 				<Hero
 					mt="mt-[70px]"
 					himg={"lg:h-[648px] md:h-[380px] h-[430px]"}
-					heading={"Documentation"}
-					text={
-						"1000+ Figma auto-layout components, a unified design system, and countless blueprint patterns to supercharge your workflow "
-					}
+					heading={"Blogs"}
+					
 				/>
 			</div>
 			<Docs />

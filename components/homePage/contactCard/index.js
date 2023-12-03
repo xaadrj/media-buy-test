@@ -53,7 +53,7 @@ function index() {
 							<Checks text="Premium Support " />
 						</div>
 						<button
-							onClick={() => router.push("/pricing")}
+							onClick={() => router.push("/contact")}
 							className="mt-8 rounded w-full product-gradient-button py-3 text-sm font-semibold tracking-[0.02em] leading-none text-white focus:outline-none"
 						>
 							Go to Pricing

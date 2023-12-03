@@ -1,0 +1,32 @@
+[
+	{
+		"question": "What is Yuri?",
+		"answer": "Yuri's automated advertising system automatically generates creative ideas based on products, takes creativity as its core, and uses batch publishing, management, analysis, and automatic optimization as means to solve the pain points of customer acquisition for cross-border enterprises.",
+		"index": 1
+	},
+	{
+		"question": "How the Yuri system works",
+		"answer": "Yuri's automated advertising system uses APIs from multiple traffic sources, including Facebook, Google, Instagram, Tiktok and other traffic platforms. With product creativity as the core, through the learning of product attributes, a large number of excellent advertising materials are automatically created. Based on the advertising templates pre-configured by the optimizer, they are released to multiple traffic sources in batches, automatically, cross-platform and cross-account. At the same time, the Yuri automated advertising system can also track and manage advertising effects, review advertising effects based on machine learning, and extract multi-dimensional data performance of advertising (such as: CTR performance of the creative body, CTR performance of the creative label, delivery Audience's CTR performance, etc., and dozens of dimensions of performance data), and make intelligent adjustments to advertising based on these data (such as adjusting budget, pausing advertising, changing materials, changing audiences, adjusting landing pages, etc.).",
+		"index": 2
+	},
+	{
+		"question": "What services can I get before using Yuri?",
+		"answer": "We provide one-on-one remote demonstration services, and you can contact us at any time to make an appointment for a demonstration time. During the demonstration, you can consult in detail about various questions about Yuri, and we will answer them one by one!",
+		"index": 3
+	},
+	{
+		"question": "What traffic sources does Yuri currently support?",
+		"answer": "At present, Yuri has opened the connection with Facebook traffic sources, and is currently testing Tiktok Ads and Google Ads internally. We will officially launch it in the next time, so you can stay tuned!",
+		"index": 4
+	},
+	{
+		"question": "How does Yuri charge?",
+		"answer": "The first month of Yuri is RMB 5,000, and subsequent renewals require the balance to be paid to the annual fee. If you choose the annual fee for your first payment, we will give you a 10% discount.",
+		"index": 5
+	},
+	{
+		"question": "Does Yuri have any long-term update plans?",
+		"answer": "Yuri is the main delivery tool used by our team. When we and our customers face problems during use, we usually resolve them within 3 hours. If there are new needs, we will also help customers develop it for free and update it to the main system. And as the traffic source policy is updated and the delivery strategy is updated, we will also release corresponding updates accordingly.",
+		"index": 6
+	}
+]

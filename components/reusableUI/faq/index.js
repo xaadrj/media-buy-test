@@ -39,7 +39,7 @@ function index({ question, answer }) {
 			</div>
 			<div
 				className={`bg-gray-100 overflow-hidden flex items-center justify-start  duration-300 ease-in-out ${
-					showQ ? ` md:h-24 h-[15rem]` : `h-0 `
+					showQ ? ` md:h-60 h-[20rem]` : `h-0 `
 				}`}
 			>
 				<p

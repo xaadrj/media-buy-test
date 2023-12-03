@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "../components/layout";
-import Pricing from "../components/pricing/index";
+import Pricing from "../components/contact/index";
 import Head from "next/head";
 
 function index() {
@@ -8,21 +8,21 @@ function index() {
     <>
      <Head>
                 <title>
-                    Figit - Pricing Plan | Subscription or Lifetime access
+                Yuri – Facebook automated ad delivery system
                 </title>
                 <meta
                     name="title"
-                    content="Figit - Pricing Plan | Subscription or Lifetime access"
+                    content="Yuri – Facebook automated ad delivery system"
                 />
                 <meta
                     name="description"
-                    content="Figit - pricing plans for both monthly subscription and lifetime access to 1000+ Figma auto-layout UI elements"
+                    content="Yuri – Facebook automated ad delivery system"
                 />
                 <meta
                     name="keywords"
-                    content="Figma, Auto Layout, Figma Auto Layout, UI elements, Figma UI"
+                    content="Yuri – Facebook automated ad delivery system"
                 />
-                <link rel="canonical" href="https://getfigit.com/pricing" />
+                <link rel="canonical" href="https://getfigit.com/contact" />
             </Head>
       <Layout>
         <Pricing />

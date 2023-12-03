@@ -10,15 +10,15 @@ function MyApp({ Component, pageProps }) {
 					rel="icon"
 					type="image/png"
 					sizes="16x16"
-					href="https://tuk-cdn.s3.amazonaws.com/can-uploader/figit-favicon-one.png"
+					href="https://i.imgur.com/EapHMca.png"
 				/>
 				<meta
-					name="Figit - Figma plugin with 1000+ auto layout UI elements"
-					content="Figit - figma plugin with 1000+ auto layout UI elements with a unified design system that supercharges your design workflow."
+					name="Yuri – Facebook automated ad delivery system"
+					content="Yuri – Facebook automated ad delivery system"
 				/>
 				<meta
 					name="description"
-					content="Figit - figma plugin with 1000+ auto layout components with a unified design system that supercharges your design workflow. "
+					content="Yuri – Facebook automated ad delivery system "
 				/>
 				<script src="https://player.vimeo.com/api/player.js%22%3E"></script>
 			</Head>

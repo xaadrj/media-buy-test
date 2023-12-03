@@ -3,7 +3,7 @@ import React from "react";
 
 export default function MyApp() {
     return (
-        <div>
+        <div id="team">
             <div className="2xl:mx-auto 2xl:container mt-20 px-6 md:px-20 w-full ">
                 <div className="flex lg:flex-row w-full flex-col-reverse md:items-center items-center justify-between">
                     <div className="md:py-20 xl:w-1/2 sm:w-1/2 flex flex-col md:items-start items-center justify-center">

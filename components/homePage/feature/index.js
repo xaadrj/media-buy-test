@@ -3,7 +3,7 @@ import H2 from "../../reusableUI/headingTwo/index";
 import Icon from "../../reusableUI/Icons/icons";
 function feature() {
   return (
-    <section className="flex flex-col items-center justify-center mt-32">
+    <section  className="flex flex-col items-center justify-center mt-32">
       <H2 headingTwo={"WORK BETTER AS A MONSTER WITH YURI"} />
       <p className="px-4 md:px-6 text-base leading-normal text-center text-gray-600 mt-2 lg:mt-6">
 	  We are committed to automating, batching, and intelligentizing all manually operable steps. <br className="hidden lg:block"/>

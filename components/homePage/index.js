@@ -8,7 +8,7 @@ import Team from "./Team"
 import Blog from "./Blog"
 // import Testimonial from "./testimonial/index";
 import Card from "./globe/index";
-import PricingCard from "./pricingCard/index";
+import PricingCard from "./contactCard/index";
 import AutoLayout from "../homePage/autoLayout/index";
 import Subscribe from "../reusableUI/subscribe/index";
 function homePage() {

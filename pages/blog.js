@@ -1,13 +1,13 @@
 import React from "react";
 import Layout from "../components/layout";
 import Head from "next/head";
-import Dcoumentation from "../components/documentation/index";
+import Blog from "../components/blog/index";
 function index() {
 	return (
 		<>
 			<Head>
-				<title>Figit - Docs for users to install Figit </title>
-				<meta name="title" content="Figit - Docs for users to install Figit " />
+				<title>Yuri – Facebook automated ad delivery system </title>
+				<meta name="title" content="Yuri – Facebook automated ad delivery system " />
 				<meta
 					name="description"
 					content="Documentation with instructions to install and get started with Figit plugin"
@@ -19,7 +19,7 @@ function index() {
 				<link rel="canonical" href="https://getfigit.com/docs" />
 			</Head>
 			<Layout>
-				<Dcoumentation />
+				<Blog />
 			</Layout>
 		</>
 	);
